@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "129756399994",
+    "project_id": "makefood-b2af7",
+    "storage_bucket": "makefood-b2af7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129756399994:android:ed4c8b2e2ec1a2266f6ec3",
+        "android_client_info": {
+          "package_name": "io.minnie.dev.makefood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129756399994-lnchh0reu7c4n4q0fppandhhb10f89av.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.minnie.dev.makefood",
+            "certificate_hash": "743064c67f8d8d75b94df9c6e231213e9ae586f1"
+          }
+        },
+        {
+          "client_id": "129756399994-tpp00c5tvm2trj58opba1njf546fkoke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjQm00zvi516gRFhFgdlOJKxO9ml4Ax_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129756399994-tpp00c5tvm2trj58opba1njf546fkoke.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
